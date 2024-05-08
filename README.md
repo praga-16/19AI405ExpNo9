@@ -1,6 +1,6 @@
 # ExpNo 9: Solve Wumpus World Problem using Python demonstrating Inferences from Propositional Logic</h1> 
-## Name: Yuvadarshini S
-## Register Number: 212221230126
+## Name: PRAGATHEESVARAN AB
+## Register Number: 212221240039
 ## Aim:
 
 To solve Wumpus World Problem using Python demonstrating Inferences from Propositional Logic
